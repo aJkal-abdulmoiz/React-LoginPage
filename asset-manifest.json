@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aJkal-abdulmoiz/React-LoginPage.git/static/css/main.a9629ca4.css",
-    "main.js": "/aJkal-abdulmoiz/React-LoginPage.git/static/js/main.0a56f7df.js",
-    "static/js/787.28cb0dcd.chunk.js": "/aJkal-abdulmoiz/React-LoginPage.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.png": "/aJkal-abdulmoiz/React-LoginPage.git/static/media/background.19f4ed934a19f13548c6.png",
-    "index.html": "/aJkal-abdulmoiz/React-LoginPage.git/index.html",
-    "main.a9629ca4.css.map": "/aJkal-abdulmoiz/React-LoginPage.git/static/css/main.a9629ca4.css.map",
-    "main.0a56f7df.js.map": "/aJkal-abdulmoiz/React-LoginPage.git/static/js/main.0a56f7df.js.map",
-    "787.28cb0dcd.chunk.js.map": "/aJkal-abdulmoiz/React-LoginPage.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/aJkal-abdulmoiz/React-LoginPage/static/css/main.73a84cf7.css",
+    "main.js": "/aJkal-abdulmoiz/React-LoginPage/static/js/main.8553c3b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aJkal-abdulmoiz/React-LoginPage/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "/aJkal-abdulmoiz/React-LoginPage/static/media/background.19f4ed934a19f13548c6.png",
+    "index.html": "/aJkal-abdulmoiz/React-LoginPage/index.html",
+    "main.73a84cf7.css.map": "/aJkal-abdulmoiz/React-LoginPage/static/css/main.73a84cf7.css.map",
+    "main.8553c3b5.js.map": "/aJkal-abdulmoiz/React-LoginPage/static/js/main.8553c3b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aJkal-abdulmoiz/React-LoginPage/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9629ca4.css",
-    "static/js/main.0a56f7df.js"
+    "static/css/main.73a84cf7.css",
+    "static/js/main.8553c3b5.js"
   ]
 }
