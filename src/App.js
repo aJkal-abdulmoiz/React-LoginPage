@@ -2,7 +2,6 @@ import './App.css';
 import {FaFacebook} from 'react-icons/fa'
 import {FaGoogle} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
-import "./app.css";
 
 
 const App=()=>{
